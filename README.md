@@ -5,3 +5,8 @@
     ### MATPLOTLIB: VISUALIZATION
     ### PIL :- PYTHON IMAGE LIBRARY
 
+## PROJECT 2: IPL DATA ANALYSIS USING NUMPY+ MATPLOTLIB.
+
+## PROJECT 3: IMDB Movie Rating Analysis
+     Pandas With Data Science.AI
+    IMDB Movie Rating Analysis
