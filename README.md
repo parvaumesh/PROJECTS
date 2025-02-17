@@ -14,6 +14,6 @@
     Markers size(ms)
     lael
     create a title for a plot
-## PROJECT 3: IMDB Movie Rating Analysis
+## IMDB Movie Rating Analysis
     Pandas With Data Science.AI
     IMDB Movie Rating Analysis
