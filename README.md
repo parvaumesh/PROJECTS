@@ -1,5 +1,5 @@
 # PROJECTS
-## PROJECT 1: Image analysis using NUMPY+MATPLOTLIB+PIL
+## PROJECT 1:P1- Image Reading, processing using Np, Plt & PIL.ipynb
 
     ### NUMPY :- ND ARRAY
     ### MATPLOTLIB: VISUALIZATION
