@@ -17,3 +17,6 @@
 ## IMDB Movie Rating Analysis
     Pandas With Data Science.AI
     IMDB Movie Rating Analysis
+##  Transforming Raw Data To Clean Data with Pandas split() Function! 
+    Separating address components (cross, sector, state, and zipcode)
+    Formatting date and time properly for better readability
