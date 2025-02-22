@@ -20,3 +20,9 @@
 ##  Transforming Raw Data To Clean Data with Pandas split() Function! 
     Separating address components (cross, sector, state, and zipcode)
     Formatting date and time properly for better readability
+## Exploratory Data Analysis (EDA) on the Titanic Dataset – with an Interactive hashtag Streamlit Dashboard
+    ✅ Data Cleaning – Handle missing values & remove duplicates
+    ✅ Statistical Summaries – Understand data distributions
+    ✅ Interactive Visualizations – Age & gender distributions, survival rates
+    ✅ Correlation Analysis – Heatmaps for relationships between features
+    Built this project with an interactive frontend using Streamlit, making data exploration more engaging! 📊
