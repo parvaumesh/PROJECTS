@@ -1,5 +1,5 @@
 # PROJECTS
-## PROJECT 1:P1- Image Reading, processing using Np, Plt & PIL.ipynb
+## PROJECT 1:P1- Image Reading, processing using Np, Plt & PIL
     NUMPY :- ND ARRAY
     MATPLOTLIB: VISUALIZATION
     PIL :- PYTHON IMAGE LIBRARY
@@ -14,6 +14,15 @@
     Markers size(ms)
     lael
     create a title for a plot
+## P3-country GDP analysis
+    1> importing data into python
+    2> Dataframe via panda
+    3> exploring datasets: head()tail()info()describe()
+    4> Renaming columns
+    5> subsetting dataframes
+    6> Basic operations with dataframe
+    8> filtering data frames
+    9> seaborn introduction
 ## IMDB Movie Rating Analysis
     Pandas With Data Science.AI
     IMDB Movie Rating Analysis
